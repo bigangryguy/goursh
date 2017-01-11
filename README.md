@@ -1,6 +1,6 @@
-# Project Name
+# goursh
 
-goursh is a Go URL shortener and bookmarking system. The system shortens URLs to unique alphanumeric strings, with link visit statistics, as well as providing basic bookmarking capabilities with hierarchical categorization.
+A Go URL shortener and bookmarking system. The system shortens URLs to unique alphanumeric strings, with link visit statistics, as well as providing basic bookmarking capabilities with hierarchical categorization.
 
 ## Installation
 
