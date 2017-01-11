@@ -4,7 +4,7 @@ goursh is a Go URL shortener and bookmarking system. The system shortens URLs to
 
 ## Installation
 
-Currently, you will need to have a working (Go 1.7+)[https://golang.org/] installation on your system. Assuming you have that prerequisite taken care of, then get the package with:
+Currently, you will need to have a working [Go 1.7+](https://golang.org/) installation on your system. Assuming you have that prerequisite taken care of, then get the package with:
 
 ```
 go get -u github.com/bigangryguy/goursh
@@ -34,4 +34,4 @@ All development to this point by David T Wilcox (AKA bigangryguy).
 
 ## License
 
-(MIT License)[https://opensource.org/licenses/MIT]
+[MIT License](https://opensource.org/licenses/MIT)
